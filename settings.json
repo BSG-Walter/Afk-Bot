@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "NoSoyBotLoJuro",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "game1.falixserver.net",
+    "port": 10441,
+    "version": "1.18.2"
   },
 
   "position": {
